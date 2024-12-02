@@ -30,7 +30,7 @@ export default function Navbar({name}) {
                 <img src={logo} alt="logo" width={50} height={50}  onClick={()=>{navigate('/')}} style={{cursor:"pointer"}}/>
             </div>
             <div>
-                 <h2 onClick={()=>{navigate('/')}} style={{cursor:"pointer"}}>EasyDeals</h2>
+                 <h2 onClick={()=>{navigate('/')}} style={{cursor:"pointer"}}>Insta Buy</h2>
             </div>
         </div>
 

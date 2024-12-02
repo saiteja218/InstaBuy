@@ -38,7 +38,7 @@ export default function Navbar2({ data }) {
                         />
                     </div>
                     <div>
-                        <h2 onClick={() => { navigate('/'); }} style={{ cursor: "pointer" }}>EasyDeals</h2>
+                        <h2 onClick={() => { navigate('/'); }} style={{ cursor: "pointer" }}>Insta Buy</h2>
                     </div>
                 </div>
 
